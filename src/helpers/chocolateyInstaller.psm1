@@ -13,6 +13,7 @@ Export-ModuleMember -Function `
 	Get-BinRoot,`
 	Get-CheckSumValid,`
 	Get-ChocolateyWebFile,`
+    Get-ChocTempDir,`
 	Get-ChocolateyUnzip,`
 	Get-ProcessorBits,`
 	Get-UACEnabled,`
